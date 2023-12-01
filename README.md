@@ -1,5 +1,5 @@
 # STM32-SimpleMenu1
-STM32 CubeIDE Simple Menu using STM32F303K8 + ST7789 TFT
+STM32 CubeIDE Simple LCD Menu using STM32F303K8 + ST7789 TFT
 Version 0.00 - [01.12.23]
 
 STM32F303K8 + ST7789 TFT - Simple Menu 1
